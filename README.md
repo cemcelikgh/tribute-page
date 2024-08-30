@@ -1,4 +1,8 @@
-# tribute-page-freecodecamp
-Build a tribute page for a subject of your choosing
+# tribute-page
+freeCodeCamp Responsive Web Design Certification Project
+<br>Tribute Page
+<br>A tribute page for a subject of your choosing
 
-![Image](tribute-page.jpg)
+Browse: <https://cemcelikgh.github.io/tribute-page/>
+
+[![Tribute Page Preview](./assets/tribute-page-preview.jpg "Browse Tribute Page")](https://cemcelikgh.github.io/tribute-page/)
